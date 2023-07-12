@@ -1,0 +1,6 @@
+wolframalpha
+fastapi
+requests
+pillow
+numpy
+python-multipart

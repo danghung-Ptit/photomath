@@ -1,0 +1,61 @@
+{
+    "success": true,
+    "error": "false",
+    "pods": [
+        {
+            "title": "Input",
+            "subpod": [
+                {
+                    "plaintext": "5 + 8 - 9"
+                },
+                {
+                    "image_url": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP364812cd4aeca6fc3e1h00005h72568ic7106cc1?MSPStoreType=image/gif&s=1"
+                }
+            ]
+        },
+        {
+            "title": "Result",
+            "subpod": [
+                {
+                    "plaintext": "4"
+                },
+                {
+                    "image_url": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP364912cd4aeca6fc3e1h0000527f8ca5ea3ee2a4?MSPStoreType=image/gif&s=1"
+                }
+            ]
+        },
+        {
+            "title": "Number line",
+            "subpod": [
+                {
+                    "plaintext": null
+                },
+                {
+                    "image_url": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP365012cd4aeca6fc3e1h00000i1ch4cf29eb28ei?MSPStoreType=image/gif&s=1"
+                }
+            ]
+        },
+        {
+            "title": "Number name",
+            "subpod": [
+                {
+                    "plaintext": "four"
+                },
+                {
+                    "image_url": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP365112cd4aeca6fc3e1h00005498d7accig604c3?MSPStoreType=image/gif&s=1"
+                }
+            ]
+        },
+        {
+            "title": "Manipulatives illustration",
+            "subpod": [
+                {
+                    "plaintext": "| + | | - | | = | \n5 | | 8 | | 9 | | 4"
+                },
+                {
+                    "image_url": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP365212cd4aeca6fc3e1h00002d5eg1790f2009cg?MSPStoreType=image/gif&s=1"
+                }
+            ]
+        }
+    ]
+}
